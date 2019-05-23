@@ -1,0 +1,248 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    background-color: rgb(245, 245, 245);
+    display: block;
+    max-width: 990px;
+    height: auto;
+    margin: 0px auto;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    clear: both;
+}
+#header h1{
+    display: inline-block;
+    font-family: Comic Sans MS;
+    text-align: left;
+    margin-right: 45%;
+}
+#header h3{
+    display: inline-block;
+    font-family: helvetica;
+    text-align: right;
+    
+}
+#container{
+    background-image: radial-gradient(rgb(163, 152, 170), rgb(75, 54, 75));
+    max-width: 970px;
+    height: auto;
+    padding: 20px;
+    overflow: hidden;
+    margin: 0px auto;
+}
+.jaynedoe{
+    display: inline-block;
+    background-color: gray;
+    padding: 5px;
+    width: 45%;
+    height: auto;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+#about{
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to right, #FEFEFE, #DBCCDA);
+    width: 51%;
+    height: auto;
+    margin-bottom: 40px;
+    padding-bottom: 38px;
+}
+#about h3{
+    width: 96%;
+    height: 25px;
+    background-image: linear-gradient(#A6A6AC, #8A8896, #A6A6AC);
+    color: white;
+    font-family: Helvetica;
+    padding: 5px 5px 5px 15px;
+    font-size: 20px;
+    text-align: left;
+}
+#about p{
+    margin: 20px;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+#about a{
+    margin: 20px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: black;
+}
+#lamode{
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to right, #FEFEFE, #DBCCDA);
+    width: 300px;
+    height: auto;
+    margin-bottom: 40px;
+}
+.websitesheader{
+    width: 90,5%;
+    height: 25px;
+    background-image: linear-gradient(#A6A6AC, #8A8896, #A6A6AC);
+    color: white;
+    font-family: Helvetica;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+    text-align: left;
+}
+.articlemainimg{
+    width: 100%;
+    height: auto;
+    margin: 0px
+}
+article p{
+    margin: 10px 10px 0px 10px;
+    font-family: Helvetica;
+    font-size: 17px;
+    text-align: justify;
+}
+.lamodetechnologies{
+    width: 90,5%;
+    height: 25px;
+    background-image: linear-gradient(#A6A6AC, #8A8896, #A6A6AC);
+    color: white;
+    font-family: Helvetica;
+    padding: 5px 5px 5px 5px;
+    margin-top: 90px;
+    font-size: 20px;
+    text-align: left;
+}
+article img{
+    display: inline-block;
+    width: 12%;
+    height: auto;
+    margin: 8px;
+}
+.modelink{
+    display: block;
+    background-color: #407D61;
+    width: 60px;
+    height: auto;
+    padding: 7px 1px;
+    margin-left: 36%;
+    margin-bottom: 21px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #31644D;
+    box-shadow: 4px 4px 4px grey;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+#familycontacts{
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to right, #FEFEFE, #DBCCDA);
+    width: 31%;
+    height: auto;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.familytechnologies{
+    width: 90,5%;
+    height: 25px;
+    background-image: linear-gradient(#A6A6AC, #8A8896, #A6A6AC);
+    color: white;
+    font-family: Helvetica;
+    padding: 5px;
+    margin-top: 51px;
+    font-size: 20px;
+    text-align: left;
+}
+.familylink{
+    display: block;
+    background-color: #407D61;
+    width: 110px;
+    height: auto;
+    padding: 7px 1px;
+    margin-left: 29%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #31644D;
+    box-shadow: 4px 4px 4px grey;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+#fiveeleven{
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to right, #FEFEFE, #DBCCDA);
+    width: 31%;
+    height: auto;
+    margin-bottom: 40px;
+    margin-left: 3%;
+}
+.fiveeleventechnologies{
+    width: 90,5%;
+    height: 25px;
+    background-image: linear-gradient(#A6A6AC, #8A8896, #A6A6AC);
+    color: white;
+    font-family: Helvetica;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: left;
+}
+.fivelink{
+    display: block;
+    background-color: #407D61;
+    width: 70px;
+    height: auto;
+    padding: 7px 1px;
+    margin-left: 34%;
+    margin-bottom: 21px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #31644D;
+    box-shadow: 4px 4px 4px grey;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+#footer{
+    background-color: rgb(245, 245, 245);
+    display: block;
+    max-width: 1010px;
+    height: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-family: Helvetica;
+    margin: 0px auto;
+}
+.footertext{
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+a img{
+    width: 2%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px;
+}
+a{
+    font-style: italic;
+    color: black;
+    font-size: 15px;
+}
